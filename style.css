@@ -1,0 +1,59 @@
+h1{
+    font-size: 3rem;
+    margin-left: 3rem;
+}
+p{
+    font-size: 1.5rem;
+    margin-left: 3rem;
+}
+.text input {
+    height:4vh;
+    width:13vw;
+    border:2px solid red;
+    border-radius: 8px;
+    margin-left: 3rem;
+}
+.text ::placeholder{
+    font-size: 1rem;
+}
+
+button{
+    height:7vh;
+    width:10vw;
+    border-radius: 6px;
+    background-color: rgb(55, 162, 55);
+    color: white;
+    font-size: 1rem;
+    margin-left: 3rem;
+    /* display: flex;
+    justify-content: space-evenly; */
+}
+.but{
+    height:7vh;
+    width:10vw;
+    border-radius: 6px;
+    background-color: rgb(61, 61, 191);
+    color: white;
+    font-size: 1rem;
+    margin-left: 3rem;
+}
+
+.but1{
+    height:7vh;
+    width:10vw;
+    border-radius: 6px;
+    background-color: rgb(169, 43, 169);
+    color: white;
+    font-size: 1rem;
+    margin-left: 3rem;
+}
+
+.but2{
+    height:7vh;
+    width:10vw;
+    border-radius: 6px;
+    background-color: rgb(183, 70, 70);
+    color: white;
+    font-size: 1rem;
+    margin-left: 3rem;
+}
